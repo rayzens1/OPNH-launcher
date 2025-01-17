@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "One Piece: New Horizon"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
+mediaGitHubURL = "https://github.com/rayzens1/OPNH-launcher"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaDiscordURL = "https://discord.gg/vDZNQKPuKU"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/rayzens1/OPNH-launcher"
+supportLink = "https://github.com/rayzens1/OPNH-launcher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "BIENVENUE SUR ONE PIECE: NEW HORIZON"
+welcomeDescription = "One Piece : New Horizon est un serveur Minecraft RP sur le thème du célèbre manga et Anime One Piece, vous y incarnerez un personnage de votre choix, entre Marine, Pirate ou Citoyen, faite votre vie et découvrez les mystères de notre monde. Voyagez d'île en île à la recherche de ressources, de trésors ou de Fruit du Démons afin de devenir plus fort, plus riche ou plus intelligent. Plongez-vous dans une histoire créée pour le serveur dans un univers différent de celui de l'Anime."
+welcomeDescCTA = "Vous n'êtes qu'a quelques clique de New Horizon."
